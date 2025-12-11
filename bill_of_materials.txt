@@ -1,0 +1,20 @@
+(Nx) means in N units, if not mentioned then the nummbers required is just 1.
+(AnyX) means get as many as you have, these compenents are usually cheap
+
+1. SLAMTEC RPLIDAR A1M8 360° Laser Range Finder 6m
+2. Raspberry Pi 5 Model 8GB RAM
+3. Arduino Uno R3 Board (with USB-B to USB-A cable)
+4. L298N DC Motor Driver Board
+5. W420 Steel Ball Universal Wheel for Smart Car
+6. (2x) 300 RPM BO Motor-Straight
+7. (12x) M3x40mm Female to Female Brass Hex Threaded Pillar Standoff Spacer
+8. (AnyX) M3 screws
+9. (AnyX) M3 Hexnuts
+10. (AnyX) Jumper cables (M-M, M-F, F-F)
+11. Xiaomi Sonic Charge 10000 mAh 33 W Pocket Power Bank Pro. 
+Amazon name (Xiaomi Pocket Power Bank pro 10000mAh 33W Super Fast Charging PD 
+|Smart 12 Layer Protection|Type C Input & Output|Triple Output Ports
+|Supports Android,Apple, Tablets, Earbuds,Watch(MI Powerbank),Black)
+12. Micro-USB to USB-A cable
+13.(2x) USB-A to USB-C cable
+
