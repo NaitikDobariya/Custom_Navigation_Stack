@@ -165,7 +165,7 @@ Path Follower Node (path_follower.py)
 Clone the entire repository.
 
 `
-git clone https://github.com/NaitikDobariya/Dot-Chasing-Dot.git
+git clone https://github.com/NaitikDobariya/Custom_Navigation_Stack.git
 `
 
 1. **Navigation Stack**
@@ -173,7 +173,7 @@ git clone https://github.com/NaitikDobariya/Dot-Chasing-Dot.git
    - ROS2 (tested on Jazzy)
    - Gazebo (tested on Harmonic)
    ```
-   cd Dot-Chasing-Dot
+   cd Custom_Naviagtion_Stack
 
    # build workspace.
    colcon build --symlink-install
