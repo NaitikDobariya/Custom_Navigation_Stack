@@ -190,11 +190,17 @@ git clone https://github.com/NaitikDobariya/Custom_Navigation_Stack.git
 
    To run the stack, run the shell script `Astar.sh`
 
-   ` ./Astar.sh`
+   ```
+   # Make the thing an executable
+   chmod +x Astar.sh
+
+   #Run
+   ./Astar.sh
+   ```
 
    In case any packages are not found, the `ros2_packages_list.txt` can be referred to see whcih packages are needed to run the stack. Idealy there should be a Docker container where we can run this stack for a seamless running of the stack on any system, as the web of dependencies and version is very tough to navigate.
 
-2. **White Robot**
+3. **White Robot**
 
    For the White Robot, currently I have provided all the .stl files for all the parts that need to be 3D printed in the `parts_stl_file` folder and the list of off-the-shelf parts used as listed in the `bill_of_materials.txt`.
    
