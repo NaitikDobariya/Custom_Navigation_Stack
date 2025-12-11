@@ -6,7 +6,7 @@ The Navigation stack and the White Robot are in going to be in a continuous stat
 
 ## Overview
 
-This Navigation stack implements a complete navigation pipeline enabling robots to autonomously localize themselves on a known occupancy grid map, plan collision-free paths to user-specified goals, and execute smooth trajectory tracking. The system demonstrates robust performance in Gazebo simulations and RViz visualizations, providing a production-quality foundation for mobile robot navigation.
+This Navigation stack implements a complete navigation pipeline enabling robots to autonomously localize themselves on a known occupancy grid map, plan collision-free paths to user-specified goals, and execute smooth trajectory tracking. The system demonstrates robust performance in Gazebo simulations and RViz visualizations, providing a production-quality foundation for mobile robot navigation. The video is as follows.
 
 [![Watch Video 1](https://img.youtube.com/vi/jNI1nhBfpCg/maxresdefault.jpg)](https://youtu.be/jNI1nhBfpCg)
 
