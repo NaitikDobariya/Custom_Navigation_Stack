@@ -13,7 +13,7 @@ This Navigation stack implements a complete navigation pipeline enabling robots 
 
 The White Robot is made with off-the-shelf materials and 3D printed components, the CAD files of the components, the list of materials used, and a complete video tutorial of assembling the robot is planned and released as quickly as possible. The bot is still going under development so it does have any support for ROS2 so the navigation stack we ran on Gazebo need to be run in some way in this bot, to do that, we run the localization, planning, and navigation nodes as simple python scripts and send commands to the motors. The results are presented in the video shown below.
 
-[![Watch Video 2](https://img.youtube.com/vi/XnThzf2u9W4/maxresdefault.jpg)](https://youtu.be/XnThzf2u9W4)
+[![Watch Video 2](https://img.youtube.com/vi/XnThzf2u9W4/hqdefault.jpg)](https://youtu.be/XnThzf2u9W4)
 
 
 ## Architecture
